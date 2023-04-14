@@ -10,22 +10,22 @@ Contests were tasked with completing a theoretical extention to the [Assiniboine
 
 ### Project Requirements:
 
-![Requirements](/pdfs/Skills-MB-Project-Scope-2023/Skills-MB-Project-Scope-2023_page-0001.jpg)
+![Requirements](/pdf/Skills-MB-Project-Scope-2023/Skills-MB-Project-Scope-2023_page-0001.jpg)
 
-![Requirements](/pdfs/Skills-MB-Project-Scope-2023/Skills-MB-Project-Scope-2023_page-0002.jpg)
+![Requirements](/pdf/Skills-MB-Project-Scope-2023/Skills-MB-Project-Scope-2023_page-0002.jpg)
 
-![Requirements](/pdfs/Skills-MB-Project-Scope-2023/Skills-MB-Project-Scope-2023_page-0003.jpg)
+![Requirements](/pdf/Skills-MB-Project-Scope-2023/Skills-MB-Project-Scope-2023_page-0003.jpg)
 
-![Requirements](/pdfs/Skills-MB-Project-Scope-2023/Skills-MB-Project-Scope-2023_page-0004.jpg)
+![Requirements](/pdf/Skills-MB-Project-Scope-2023/Skills-MB-Project-Scope-2023_page-0004.jpg)
 
-![Requirements](/pdfs/Skills-MB-Project-Scope-2023/Skills-MB-Project-Scope-2023_page-0005.jpg)
+![Requirements](/pdf/Skills-MB-Project-Scope-2023/Skills-MB-Project-Scope-2023_page-0005.jpg)
 
 ### Module A
 
-![Mockup](/pdfs/Final_mockup/Final_mockup_page-0001)
+![Mockup](/pdf/Final_mockup/Final_mockup_page-0001)
 
-![Mockup](/pdfs/Final_mockup/Final_mockup_page-0002)
+![Mockup](/pdf/Final_mockup/Final_mockup_page-0002)
 
-![Mockup](/pdfs/Final_mockup/Final_mockup_page-0003)
+![Mockup](/pdf/Final_mockup/Final_mockup_page-0003)
 
-![Mockup](/pdfs/Final_mockup/Final_mockup_page-0004)
+![Mockup](/pdf/Final_mockup/Final_mockup_page-0004)
