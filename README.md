@@ -6,7 +6,7 @@
 
 This project was completed during the Skills Manitoba Competition in the Web Technologies category at the Secondary School level. **_I placed 1st place, recieving a gold medal_**.
 
-Contests were tasked with completing a theoretical extention to the [Assiniboine Park website](https://www.assiniboinepark.ca/). They had 6 hours to complete the project. Afterwards, each contestent's websites was judged by a panel of judges consisting of developers and designers.
+Contestants were tasked with completing a theoretical extension to [Assiniboine Park website](https://www.assiniboinepark.ca/). They had 6 hours to complete the project. Afterwards, each contestant's websites were judged by a panel of judges consisting of developers and designers.
 
 ### Project Requirements:
 
