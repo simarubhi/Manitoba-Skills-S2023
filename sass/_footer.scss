@@ -1,0 +1,140 @@
+// Footer ----------------------------
+footer {
+	.footer-container {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding: 50px 0;
+		width: 900px;
+		margin: 0 auto;
+
+		.nav-social-conatiner {
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			gap: 70px;
+
+			// Navigaton container
+			.nav-container {
+				display: flex;
+
+				ul {
+					display: flex;
+					justify-content: center;
+					align-items: center;
+					gap: 35px;
+
+					.list-item {
+						list-style: none;
+
+						// Zoo
+						&:nth-child(1) {
+							a {
+								color: $secondary-green;
+							}
+						}
+
+						// The Leaf
+						&:nth-child(2) {
+							a {
+								color: $primary-green;
+							}
+						}
+
+						// Park
+						&:nth-child(3) {
+							a {
+								color: $secondary-blue;
+							}
+						}
+
+						// Family Day
+						&:nth-child(4) {
+							a {
+								color: $primary-blue;
+							}
+						}
+
+						a {
+							font-size: 1.125rem;
+							font-weight: 800;
+							text-decoration: none;
+							text-transform: uppercase;
+
+							&:hover,
+							&:focus,
+							&:active {
+								text-decoration: underline;
+							}
+
+							&.active {
+								text-decoration: underline;
+							}
+						}
+					}
+				}
+			}
+
+			// Social Media
+			.social-container {
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				gap: 20px;
+
+				svg {
+					width: auto;
+					height: 25px;
+					cursor: pointer;
+
+					path {
+						fill: $light-black;
+					}
+
+					&:hover,
+					&:focus,
+					&:active {
+						path {
+							fill: $primary-blue;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: 1024px) {
+	footer {
+		.footer-container {
+			width: 600px !important;
+
+			.logo {
+				width: 35px !important;
+				height: 35px !important;
+			}
+
+			.nav-social-conatiner {
+				gap: 50px !important;
+
+				.nav-container {
+					ul {
+						gap: 20px !important;
+
+						.list-item {
+							a {
+								font-size: 1rem !important;
+							}
+						}
+					}
+				}
+
+				.social-container {
+					svg {
+						height: 20px !important;
+					}
+				}
+			}
+		}
+	}
+}

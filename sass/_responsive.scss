@@ -1,0 +1,68 @@
+// Header, Footer, and confirmation respnsive code found in respected files
+@media (max-width: 1024px) {
+	section.banner {
+		.text-container {
+			width: 600px;
+			margin: 35px auto;
+		}
+
+		.image-container {
+			overflow: hidden;
+
+			img {
+				width: 1023px;
+			}
+		}
+	}
+
+	section.scavenger {
+		width: 600px;
+
+		.heading {
+			font-size: 1.25rem;
+		}
+	}
+
+	section.enrichment {
+		.heading-container {
+			.heading {
+				width: 600px;
+				font-size: 1.25rem;
+			}
+
+			.description {
+				width: 600px;
+			}
+		}
+
+		.day-container {
+			flex-direction: column;
+			width: 100%;
+		}
+	}
+
+	section.moreinfo {
+		width: 600px;
+
+		.heading {
+			font-size: 1.25rem;
+		}
+	}
+
+	section.information-container {
+		.container {
+			width: 600px;
+
+			.heading {
+				font-size: 1.25rem;
+			}
+		}
+	}
+
+	section.ticket-section {
+		width: 600px;
+	}
+}
+
+@media (max-width: 768px) {
+}

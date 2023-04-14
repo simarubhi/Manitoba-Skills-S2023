@@ -1,0 +1,23 @@
+// Confirmatoin page ------------------------
+.confirmation-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 20px;
+	margin: 5rem auto;
+	width: 900px;
+
+	.heading {
+		font-size: 2rem;
+		font-weight: 800;
+	}
+
+	.confirmation-content {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		gap: 10px;
+	}
+}

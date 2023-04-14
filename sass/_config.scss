@@ -1,0 +1,30 @@
+// Google fonts
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+// Variables
+$primary-blue: #008bc4;
+$secondary-blue: #73b2b4;
+$primary-green: #57b566;
+$secondary-green: #41713d;
+$gray: #ebebeb;
+$white: #fff;
+$light-black: #343434;
+$para-line-height: 150%;
+
+// Reset font size
+:root {
+	font-size: 16px;
+}
+
+// Default global resets
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Lato', sans-serif;
+	scroll-behavior: smooth;
+	// overflow: hidden;
+}
