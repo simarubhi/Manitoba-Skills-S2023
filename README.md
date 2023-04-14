@@ -22,10 +22,10 @@ Contests were tasked with completing a theoretical extention to the [Assiniboine
 
 ### Module A
 
-![Mockup](/pdf/Final_mockup/Final_mockup_page-0001)
+![Mockup](/pdf/Final_mockup/Final_mockup_page-0001.jpg)
 
-![Mockup](/pdf/Final_mockup/Final_mockup_page-0002)
+![Mockup](/pdf/Final_mockup/Final_mockup_page-0002.jpg)
 
-![Mockup](/pdf/Final_mockup/Final_mockup_page-0003)
+![Mockup](/pdf/Final_mockup/Final_mockup_page-0003.jpg)
 
-![Mockup](/pdf/Final_mockup/Final_mockup_page-0004)
+![Mockup](/pdf/Final_mockup/Final_mockup_page-0004.jpg)
